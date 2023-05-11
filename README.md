@@ -4,7 +4,7 @@
 
 > Esercizio Boolando
 
-## Riproduzione di un vero sito: Discord
+## Riproduzione di un vero sito: Boolando
 
 - Descrizione
 
